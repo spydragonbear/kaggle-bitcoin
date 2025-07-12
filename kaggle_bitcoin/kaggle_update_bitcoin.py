@@ -177,7 +177,7 @@ def fetch_and_append_missing_data(
 
 # Main execution
 if __name__ == "__main__":
-    dataset_slug = "mczielinski/bitcoin-historical-data"  # Kaggle dataset slug
+    dataset_slug = "endgamelama/intraday-dataset"  # Kaggle dataset slug
     currency_pair = "btcusd"
     upload_dir = "upload"
 
